@@ -44,6 +44,36 @@
         "music": true
       },
       "organizer": "Carey Wales"
+    },
+     {
+      "id": 790,
+      "category": "sustainability",
+      "title": "Beach Cleanup 1",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "pets": 1,
+      "extras": {
+        "catering": true,
+        "music": true
+      },
+      "organizer": "Carey Wales"
+    },
+     {
+      "id": 791,
+      "category": "sustainability",
+      "title": "Beach Cleanup 2",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "pets": 1,
+      "extras": {
+        "catering": true,
+        "music": true
+      },
+      "organizer": "Carey Wales"
     }
   ]
 }
